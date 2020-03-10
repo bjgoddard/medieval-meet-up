@@ -1,3 +1,18 @@
+#Ogr
+#About
+**Note: This app is display only and is not designed to be fully functional. It was built for display purposes only.
+
+Ogr was built with a mobile-first approach using React in only two days as part of General Assembly 2020 Hackathon. It was a collaborative project built by myself, two other developers, and a UX Designer. The theme of the competition was "Medieval Meet-Up."
+
+In an effort to stay true to the theme, include Valentine's Day (the final day of our Hackathon), and to have a little fun, we decided to create a twist on the well known dating app, Tinder. Our app, Ogr, takes place in the 16th century in The Kingdom of Far Far Away (the world of Shrek). It is built for the residents of The Kingdom of Far Far Away to find their significant other.
+
+This app was not meant to be a serious app -- instead it was meant to be a parody and was an opportunity for me and my teammates to fill any gaps in our React knowledge, gain collaboration experience, develop our ability to use Github as a collaborative platform as well as gain insight into the process and requirements of making a good user interface (thanks to our UX Designer!).
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
