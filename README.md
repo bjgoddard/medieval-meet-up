@@ -1,5 +1,4 @@
-##Ogr
-##About
+
 **Note: This app is display only and is not designed to be fully functional. It was built for display purposes only.
 
 Ogr was built with a mobile-first approach using React in only two days as part of General Assembly 2020 Hackathon. It was a collaborative project built by myself, two other developers, and a UX Designer. The theme of the competition was "Medieval Meet-Up."
